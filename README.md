@@ -4,7 +4,7 @@
 - 🫡 I particularly love the Fate series
 - 🔭 I’m an avid CTF player and wannabe hacker
 - 🌱 I’m currently in Cybersecurity at Shiv Nadar University
-- 👯 I’m looking to collaborate on hackathons and CTFs with Team Edita
+- 👯 Cofounder of Edita along with FrenzyVJN and Hotaruhspr. We participate in hackathons and CTFs
 - 🤔 I’m looking forward to doing Bug Bounties
 - 📫 How to reach me:
 - **Discord:** @drunkencloud
