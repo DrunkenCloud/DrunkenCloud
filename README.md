@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Niranjhan Senthilkumaran Uma Priya. A little more about me:
+### Hi there 👋 My name is Niranjhan SU A little more about me:
 
 - 🐈‍⬛ I like anime, music and food.
 - 🫡 I paritcularly love the Fate series
