@@ -2,9 +2,8 @@
 
 - 🐈‍⬛ I like anime, coffee and cats.
 - 🫡 I particularly love the Fate series
-- 🔭 I’m an avid CTF player and like defensive security or blue teaming.
-- 🌱 I’m currently in Cybersecurity at Shiv Nadar University
-- 👯 Cofounder of Team Edita,  along with [FrenzyVJN](https://github.com/FrenzyVJN) and [Hotaruhspr](https://github.com/hotaru-hspr). We participate in hackathons and CTFs
+- 🔭 I’m an avid CTF player and like programming in C, C++ and python.
+- 🌱 I’m currently studying at Shiv Nadar University Chennai
 - 📫 How to reach me:
 - **Discord:** @drunkencloud
 - **X.com:** [@drunkencloud99](https://x.com/drunkencloud99)
