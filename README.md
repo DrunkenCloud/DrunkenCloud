@@ -2,7 +2,7 @@
 
 - 🐈‍⬛ I like anime, coffee and cats.
 - 🫡 I particularly love the Fate series
-- 🔭 I’m an avid CTF player and like programming in C, C++ and python.
+- 🔭 I’m mostly program in C++ and python.
 - 🌱 I’m currently studying at Shiv Nadar University Chennai
 - 📫 How to reach me:
 - **Discord:** @drunkencloud
