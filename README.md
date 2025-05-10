@@ -3,7 +3,7 @@
 - 🔭 I’m mostly program in C++, python and java. Looking into Golang as well.
 - ☕ I like anime and coffee, I particularly love the Fate series.
 - 🌱 I’m currently studying at Shiv Nadar University Chennai.
-- 📫 You can reach me on discord: @drunkencloud
+- 📫 You can reach me on discord @drunkencloud
 
 <div align="center"> 
   <img 
