@@ -5,8 +5,7 @@
 - 🌱 I’m currently studying at Shiv Nadar University Chennai.
 - 📫 How to reach me:
 > - **Discord:** @drunkencloud
-> - **X.com:** [@drunkencloud99](https://x.com/drunkencloud99)
-
+> - 
 <div align="center"> 
   <img 
     src="https://github-readme-stats-drunkencloud.vercel.app/api?username=drunkencloud&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
