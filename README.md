@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Niranjhan SU A little more about me:
 
-- 🔭 I’m mostly program in C++, python and java. Looking into Golang as well.
 - ☕ I like anime and coffee, I particularly love the Fate series.
-- 🌱 I’m currently studying at Shiv Nadar University Chennai.
-- 📫 You can reach me on discord @drunkencloud
+- 🌱 I’m currently studying Computer Science at Shiv Nadar University Chennai.
+- 🔭 My main programming languages include Python, Go, C/C++, Java and Javascript/Typescript and I like to work on algorithms, backends & servers.
+- 📫 You can reach me on discord @drunkencloud, instagram and twitter @drunkencloud99.
 
 <div align="center"> 
   <img 
