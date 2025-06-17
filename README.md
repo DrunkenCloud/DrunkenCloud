@@ -12,7 +12,7 @@
     height="220"
   />
   <img 
-    src="https://github-readme-stats-drunkencloud.vercel.app/api/top-langs/?username=drunkencloud&hide=html,css,Jupyter+Notebook,javscript&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
+    src="https://github-readme-stats-drunkencloud.vercel.app/api/top-langs/?username=drunkencloud&hide=javscript,html,css,Jupyter+Notebook&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
     alt="My Language stats"
     height="220"
   />
